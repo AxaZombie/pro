@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 3a30c53aba507684d8e162dc98bcb3e8
+  productGUID: 6d657ac44f9037d44840ba01b1a62cfe
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -673,10 +673,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 7a6ac432-3205-481e-a303-14a8caf84375
+  cloudProjectId: 055d2bd6-a015-41f1-a46d-39d6407c0a03
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: jump
+  projectName: jump 2025-04-08_21-43-20
   organizationId: a01031449355
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
