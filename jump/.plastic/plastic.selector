@@ -1,4 +1,0 @@
-repository "jump 2025-04-08_21-43-20/jump@14569391332485@cloud"
-  path "/"
-    br "/main"
-    co "/main"
